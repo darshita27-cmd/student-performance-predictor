@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/18UNJXoN9wiK5S82CdB-R1iQQV2F_hAZ0
 """
 
-pip install streamlit
 
 import streamlit as st # to create dashboards or frame works
 import pandas as pd # datamanipulation
